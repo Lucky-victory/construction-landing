@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   authors: [
     {
       name: "Buildcraft construction company",
-      url: "https://construction-landing,vercel.app",
+      url: "https://buildcraft.gelapps.online",
     },
   ],
   creator: "Buildcraft construction company",
@@ -19,11 +19,11 @@ export const metadata: Metadata = {
     title: "Buildcraft construction company",
     description:
       "Buildcraft construction company is a construction company that specializes in building houses, offices, and other structures.",
-    url: "https://construction-landing,vercel.app",
+    url: "https://buildcraft.gelapps.online",
     siteName: "Buildcraft construction company",
     images: [
       {
-        url: "https://construction-landing,vercel.app/images/og.png",
+        url: "https://buildcraft.gelapps.online/images/og.png",
         width: 1200,
         height: 630,
         type: "image/png",
